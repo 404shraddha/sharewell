@@ -1,4 +1,4 @@
-# shareweel_app
+# sharewell_app
 
 A new Flutter project.
 
